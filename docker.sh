@@ -32,11 +32,8 @@ sudo systemctl start docker
 echo "Enabling Docker to start on boot..."
 sudo systemctl enable docker
 
-# 检查 Docker 状态
-echo "Checking Docker status..."
-sudo systemctl status docker
-
 # 安装docker-compose
+echo "Installing Docker-compose..."
 curl -L "https://github.com/docker/compose/releases/latest/download/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose && chmod +x /usr/local/bin/docker-compose
 
 echo "Docker and compose installation completed!"
