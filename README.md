@@ -4,9 +4,3 @@ https://cdn.jsdmirror.com/gh/Lovest7/file/
 ```
 https://cdn.jsdmirror.com/gh/Lovest7/file/blog/
 ```
-```shell
-https://cdn.jsdmirror.com/gh/Lovest7/file/hm.woff2
-```
-```shell
-https://cdn.jsdmirror.com/gh/Lovest7/file/zheng.woff2
-```
