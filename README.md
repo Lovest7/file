@@ -2,5 +2,8 @@
 https://cdn.jsdmirror.com/gh/Lovest7/file/
 ```
 ```
+https://cdn.jsdmirror.com/gh/Lovest7/file/font/
+```
+```
 https://cdn.jsdmirror.com/gh/Lovest7/file/blog/
 ```
